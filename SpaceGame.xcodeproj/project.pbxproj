@@ -24,6 +24,7 @@
 		075672FD18B3FB0E00C22248 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 075672D818B3FB0E00C22248 /* UIKit.framework */; };
 		0756730518B3FB0E00C22248 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0756730318B3FB0E00C22248 /* InfoPlist.strings */; };
 		0756730718B3FB0E00C22248 /* SpaceGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0756730618B3FB0E00C22248 /* SpaceGameTests.m */; };
+		0756731118B4405B00C22248 /* background1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0756731018B4405B00C22248 /* background1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		0756730218B3FB0E00C22248 /* SpaceGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SpaceGameTests-Info.plist"; sourceTree = "<group>"; };
 		0756730418B3FB0E00C22248 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0756730618B3FB0E00C22248 /* SpaceGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpaceGameTests.m; sourceTree = "<group>"; };
+		0756731018B4405B00C22248 /* background1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				075672EC18B3FB0E00C22248 /* ViewController.m */,
 				075672EE18B3FB0E00C22248 /* MyScene.h */,
 				075672EF18B3FB0E00C22248 /* MyScene.m */,
+				0756731018B4405B00C22248 /* background1.png */,
 				075672F118B3FB0E00C22248 /* Spaceship.png */,
 				075672F318B3FB0E00C22248 /* Images.xcassets */,
 				075672DD18B3FB0E00C22248 /* Supporting Files */,
@@ -243,6 +246,7 @@
 				075672E118B3FB0E00C22248 /* InfoPlist.strings in Resources */,
 				075672F418B3FB0E00C22248 /* Images.xcassets in Resources */,
 				075672F218B3FB0E00C22248 /* Spaceship.png in Resources */,
+				0756731118B4405B00C22248 /* background1.png in Resources */,
 				075672EA18B3FB0E00C22248 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
